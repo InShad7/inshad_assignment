@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823244207634",
+    "project_id": "vivatech-cc90a",
+    "storage_bucket": "vivatech-cc90a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823244207634:android:7b6563e8086e78f2b34acb",
+        "android_client_info": {
+          "package_name": "com.example.viva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823244207634-l7optlu38a2unnogtvatqr553vkqhbr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRzZb9iRnAHB0mT-ID9h1DdAa2chgjKe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823244207634-l7optlu38a2unnogtvatqr553vkqhbr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
