@@ -1,16 +1,3 @@
-# viva
+-assignment
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter project implements a login page and registration page with form validation using Firebase authentication. Users can sign up for an account and securely log in. The project utilizes Firebase Cloud Messaging for push notifications, allowing users to receive real-time notifications. The code includes integration with the firebase_messaging package and demonstrates handling background messages. The UI is designed with a clean and intuitive user interface, and the form validation ensures data integrity.
